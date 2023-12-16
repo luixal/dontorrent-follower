@@ -1,0 +1,14 @@
+download_path: /mnt/vault/transmission/torrents
+pages:
+- min_episode: 17
+  tmdb_id: '202102'
+  url: https://dontorrent.cymru/serie/103845/103845/Quantum-Leap-1-Temporada-720p
+- min_episode: 6
+  tmdb_id: '134095'
+  url: https://dontorrent.cymru/serie/105152/105152/Asesinato-En-El-Fin-Del-Mundo-1-Temporada-720p
+- min_episode: 5
+  tmdb_id: '87917'
+  url: https://dontorrent.cymru/serie/105290/105293/Para-toda-la-humanidad-4-Temporada-720p
+- min_episode: 3
+  tmdb_id: '95480'
+  url: https://dontorrent.cymru/serie/105547/105547/Slow-Horses-3-Temporada-720p
