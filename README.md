@@ -47,9 +47,5 @@ You can run it by just running python main file, like this:
 python main.py
 ```
 
-You can also activate python's virtual env and run it:
-
-```sh
-source ./bin/activate
-python main.py
-```
+## Example output
+![image](https://github.com/luixal/dontorrent-follower/assets/615268/af12ce06-0ebf-4ac4-a099-d8ffecd62030)
